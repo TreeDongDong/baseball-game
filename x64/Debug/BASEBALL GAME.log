@@ -1,0 +1,3 @@
+﻿  main.c
+C:\Users\SAMSUNG\source\repos\BASEBALL GAME\main.c(11,8): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+  BASEBALL GAME.vcxproj -> C:\Users\SAMSUNG\source\repos\BASEBALL GAME\x64\Debug\BASEBALL GAME.exe
